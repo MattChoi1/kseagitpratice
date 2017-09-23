@@ -3,7 +3,7 @@
 from dice import four_sided, six_sided, make_test_dice
 from ucb import main, trace, log_current_line, interact
 
-GOAL_SCORE = 100 # The goal of Hog is to score 100 points.
+GOAL_SCORE = 50 # The goal of Hog is to score 100 points.
 
 ######################
 # Phase 1: Simulator #
